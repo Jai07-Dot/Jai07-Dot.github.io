@@ -15,6 +15,9 @@ text-align: center;
 }
 .box {
     border: 1px solid #ccc;
-    padding: 15px;   
+    padding: 15px;
     margin: 20px 0;
-    color: white;
+    border-radius: 8px;
+    background: white; 
+    color: black;        
+}
