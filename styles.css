@@ -7,9 +7,13 @@ color: white;
 text-align: center;
 }
 .project img {
-    width: 200px;   /* adjust size as needed */
+    width: 200px;  
     height: auto;
     display: block;
     margin-top: 10px;
-    border-radius: 8px; /* optional, just makes it look nicer */
+    border-radius: 8px; 
 }
+.box {
+    border: 1px solid #ccc;   
+    padding: 15px;            
+    margin: 20px 0;           
